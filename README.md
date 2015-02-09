@@ -32,5 +32,6 @@ __Notes__
 ``` scrollView.contentSize = CGSize(width: 960, height: scrollView.bounds.size.height) ```
 
 ### Walkthrough of App
-![dropbox screencast](screencast/dropboxish-walkthrough.gif)
+<img src="https://github.com/venetucci/Dropboxish/raw/master/screencast/dropboxish-walkthrough.gif" width="320px">
+
 gif created with [licecap](http://www.cockos.com/licecap)
